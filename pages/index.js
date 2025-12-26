@@ -24,8 +24,8 @@ export default function Home() {
             <h1 className="text-4xl font-bold">Ciao — I'm Alessandro</h1>
             <p className="mt-3 text-lg text-gray-600">I'm a computer science graduate. I build software and research projects.</p>
             <div className="mt-4 flex gap-3">
-              <Link href="/projects"><a className="px-4 py-2 bg-blue-600 text-white rounded">Projects</a></Link>
-              <Link href="/cv"><a className="px-4 py-2 border rounded">Download CV</a></Link>
+              <Link href="/projects" className="px-4 py-2 bg-blue-600 text-white rounded">Projects</Link>
+              <Link href="/cv" className="px-4 py-2 border rounded">Download CV</Link>
             </div>
           </div>
           <LocaleSwitcher />

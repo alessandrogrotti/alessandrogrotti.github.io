@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "cv": "CV",
+    "thesis": "Thesis",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Ciao — I'm Alessandro",
+    "description": "I'm a computer science graduate. I build software and research projects.",
+    "projects": "Projects",
+    "download_cv": "Download CV"
+  },
+  "sections": {
+    "education": "Education",
+    "contact": "Contact"
+  },
+  "footer": {
+    "text": "© {{year}} Alessandro Grotti — Built with Next.js · TailwindCSS"
+  }
+}
