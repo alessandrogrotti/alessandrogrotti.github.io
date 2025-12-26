@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "home": "Home",
+    "projects": "Progetti",
+    "cv": "CV",
+    "thesis": "Tesi",
+    "contact": "Contatti"
+  },
+  "hero": {
+    "greeting": "Ciao, sono Alessandro Grotti",
+    "title": "Studente magistrale in Digital Transformation Management",
+    "subtitle": "Laurea triennale in Informatica per il Management — 110 e Lode",
+    "description": "Appassionato di dati, sviluppo software, API, automazione e cruscotti aziendali. Mi piace costruire interfacce pulite, analizzare sistemi e rendere semplice ciò che è complesso.",
+    "cta_projects": "Vedi Progetti",
+    "cta_cv": "Scarica CV",
+    "cta_contact": "Contattami"
+  },
+  "sections": {
+    "about": "Chi sono",
+    "education": "Formazione",
+    "bachelor": "Triennale — Informatica per il Management",
+    "master": "Magistrale — Digital Transformation Management",
+    "skills": "Competenze",
+    "projects": "Progetti",
+    "contact": "Contatti",
+    "documents": "Documenti"
+  },
+  "education": {
+    "bachelor_degree": "Laurea Triennale",
+    "bachelor_title": "Informatica per il Management",
+    "bachelor_grade": "110 e Lode",
+    "master_degree": "Laurea Magistrale",
+    "master_title": "Digital Transformation Management",
+    "master_status": "In corso"
+  },
+  "skills": {
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "data": "Data & Analytics",
+    "tools": "Tools & DevOps"
+  },
+  "projects": {
+    "bachelor_projects": "Progetti Triennale",
+    "master_projects": "Progetti Magistrale",
+    "personal_projects": "Progetti Personali",
+    "view_repo": "Vedi Repository",
+    "coming_soon": "Prossimamente",
+    "loading": "Caricamento repository da GitHub...",
+    "no_projects": "Nessun progetto in questa categoria.",
+    "description": "Una collezione di progetti accademici e personali che mostrano analisi dati, sviluppo software e design di sistemi."
+  },
+  "documents": {
+    "cv_title": "Curriculum Vitae",
+    "thesis_title": "Tesi Triennale",
+    "view_download": "Visualizza / Scarica"
+  },
+  "contact": {
+    "title": "Contattami",
+    "email": "Email",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
+  },
+  "footer": {
+    "text": "© {{year}} Alessandro Grotti — Realizzato con Next.js · TailwindCSS",
+    "made_with": "Fatto con ❤️ e curiosità"
+  }
+}

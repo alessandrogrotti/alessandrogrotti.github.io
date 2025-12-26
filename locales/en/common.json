@@ -7,16 +7,61 @@
     "contact": "Contact"
   },
   "hero": {
-    "greeting": "Ciao — I'm Alessandro",
-    "description": "I'm a computer science graduate. I build software and research projects.",
-    "projects": "Projects",
-    "download_cv": "Download CV"
+    "greeting": "Hi, I'm Alessandro Grotti",
+    "title": "M.Sc. student in Digital Transformation Management",
+    "subtitle": "B.Sc. in Computer Science for Management — 110/110 cum laude",
+    "description": "Passionate about data, software engineering, APIs, automation, and dashboarding. I enjoy building clean interfaces, analyzing systems, and transforming complexity into clarity.",
+    "cta_projects": "View Projects",
+    "cta_cv": "Download CV",
+    "cta_contact": "Get in Touch"
   },
   "sections": {
+    "about": "About",
     "education": "Education",
-    "contact": "Contact"
+    "bachelor": "Bachelor's Degree — Computer Science for Management",
+    "master": "Master's Degree — Digital Transformation Management",
+    "skills": "Tech Stack",
+    "projects": "Projects",
+    "contact": "Contact",
+    "documents": "Documents"
+  },
+  "education": {
+    "bachelor_degree": "Bachelor's Degree",
+    "bachelor_title": "Computer Science for Management",
+    "bachelor_grade": "110/110 cum laude",
+    "master_degree": "Master's Degree",
+    "master_title": "Digital Transformation Management",
+    "master_status": "In progress"
+  },
+  "skills": {
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "data": "Data & Analytics",
+    "tools": "Tools & DevOps"
+  },
+  "projects": {
+    "bachelor_projects": "Bachelor's Projects",
+    "master_projects": "Master's Projects",
+    "personal_projects": "Personal Projects",
+    "view_repo": "View Repository",
+    "coming_soon": "Coming soon",
+    "loading": "Loading repositories from GitHub...",
+    "no_projects": "No projects in this category yet.",
+    "description": "A collection of academic and personal projects showcasing data analysis, software development, and system design."
+  },
+  "documents": {
+    "cv_title": "Curriculum Vitae",
+    "thesis_title": "Bachelor's Thesis",
+    "view_download": "View / Download"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "email": "Email",
+    "github": "GitHub",
+    "linkedin": "LinkedIn"
   },
   "footer": {
-    "text": "© {{year}} Alessandro Grotti — Built with Next.js · TailwindCSS"
+    "text": "© {{year}} Alessandro Grotti — Built with Next.js · TailwindCSS",
+    "made_with": "Made with ❤️ and curiosity"
   }
 }
